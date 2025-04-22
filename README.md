@@ -1,8 +1,4 @@
-# Selcuk Sarikoz
-
-## Fullstack Developer
-
-Experienced in building web, mobile and desktop applications from scratch, with 3+ years of leadership managing frontend teams and mentoring junior developers. [cite: 1] Strong expertise in frontend and mobile development, combined with end-to-end backend proficiency to deliver scalable, high-performance solutions. [cite: 2] Skilled in database architecture, API design, and system optimization. [cite: 3] Passionate about clean code, agile methodologies, and modern tech stacks, with a focus on end-to-end project ownership. [cite: 4] Keenly interested in AI/ML innovations, staying updated with the latest advancements. [cite: 5]
+Experienced in building web, mobile and desktop applications from scratch, with 3+ years of leadership managing frontend teams and mentoring junior developers. Strong expertise in frontend and mobile development, combined with end-to-end backend proficiency to deliver scalable, high-performance solutions. Skilled in database architecture, API design, and system optimization. Passionate about clean code, agile methodologies, and modern tech stacks, with a focus on end-to-end project ownership. Keenly interested in AI/ML innovations, staying updated with the latest advancements.
 
 ### Featured Projects
 
@@ -23,4 +19,4 @@ Here are some of my featured open-source projects:
 
 ### Skills
 
-Javascript, Typescript, React.js, Next.js, Vue.js, Nuxt.js, React Native, Node.js, Nest.js, Express.js, Sass, Typeorm, Prisma.js, Laravel, Angular, Svelte, Redis, MongoDB, Mysql, Postgresql, AWS, Google Cloud, Docker, Electron.js, Tailwindcss, (Golang, Python, Swift, Kotlin, Compose API for indie projects) [cite: 6]
+Javascript, Typescript, React.js, Next.js, Vue.js, Nuxt.js, React Native, Node.js, Nest.js, Express.js, Sass, Typeorm, Prisma.js, Laravel, Angular, Svelte, Redis, MongoDB, Mysql, Postgresql, AWS, Google Cloud, Docker, Electron.js, Tailwindcss, (Golang, Python, Swift, Kotlin, Compose API for indie projects)
